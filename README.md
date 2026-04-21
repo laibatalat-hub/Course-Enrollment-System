@@ -8,7 +8,7 @@ A robust C++ console application designed to streamline the course selection pro
 - **Dynamic Fee Calculation:** Automatically calculates total tuition fees based on the specific credit hours (CH) of selected courses (Rate: 3500 per Credit Hour).
 - **User-Friendly Interface:** Uses formatted console output for a clear, interactive experience.
 
-## 💻 Logic Overview
+# Logic Overview
 The program uses a modular approach with separate functions for each department and fee calculation logic:
 - **Department Modules:** `EE()`, `CE()`, and `ME()` handle user input for specific engineering tracks.
 - **Data Storage:** Uses arrays to store selected course IDs for processing.
